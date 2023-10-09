@@ -1,0 +1,24 @@
+{
+  "name": "pendejo-button",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitos-exe/pendejo-button.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vitos-exe/pendejo-button/issues"
+  },
+  "homepage": "https://github.com/vitos-exe/pendejo-button#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
